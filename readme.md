@@ -6,10 +6,10 @@ Aplicar os conhecimentos básicos de HTML para a criação de um web site.
 
 ### Ferramentas & Softwares Usados
 
-* - Visual Studio Code
-* - Git 
-* - GitHub
-* - Imagens (disponibilizadas pelo curso)
+ - Visual Studio Code
+ - Git 
+ - GitHub
+ - Imagens (disponibilizadas pelo curso)
 
 ### Foco de Habilidaddes Adquiridas
 
