@@ -4,7 +4,6 @@
 
 Aplicar os conhecimentos básicos de HTML para a criação de um web site.
 
-**Vídeo Desmostração**
 ![](fotos/20210708_074017.gif)
 
 ### Ferramentas & Softwares Usados
