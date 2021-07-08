@@ -6,7 +6,7 @@ Aplicar os conhecimentos básicos de HTML para a criação de um web site.
 
 ![](fotos/20210708_074017.gif)
 
-[Acesse aqui!](https://araujoleonardo310.github.io/Projeto_WebSite_Universidade/)
+[:point_right: Acesse aqui!](https://araujoleonardo310.github.io/Projeto_WebSite_Universidade/)
 
 ### Ferramentas & Softwares Usados
 
@@ -17,10 +17,13 @@ Aplicar os conhecimentos básicos de HTML para a criação de um web site.
 
 ### Foco de Habilidaddes Adquiridas
 
-* Títulos
+* Títulos 
+* Paragráfos
 * Tabelas
-* Formularios
+* Formulário
 * Links
+* Barra de navegação
+* Imagens
 
 ### Referências & Créditos
 
