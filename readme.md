@@ -20,7 +20,7 @@ Aplicar os conhecimentos básicos de HTML para a criação de um web site.
 
 ### Referências & Créditos
 
-![Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos](https://www.udemy.com/share/101WqG2@PW5KVFhYTlIJekRCO2JOVBRu/)
+[Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos](https://www.udemy.com/share/101WqG2@PW5KVFhYTlIJekRCO2JOVBRu/)
 
 <p>
 	<img src="fotos/prof.png">
