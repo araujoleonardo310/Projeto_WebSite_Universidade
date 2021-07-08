@@ -6,6 +6,8 @@ Aplicar os conhecimentos básicos de HTML para a criação de um web site.
 
 ![](fotos/20210708_074017.gif)
 
+[Link](https://araujoleonardo310.github.io/Projeto_WebSite_Universidade/)
+
 ### Ferramentas & Softwares Usados
 
  - Visual Studio Code
