@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Aplicar os conhecimentos básicos de HTML para a criação de um web site.
+Aplicar os conhecimentos básicos de HTML para a criação de um web site de uma unveridade.
 
 ![](fotos/20210708_074017.gif)
 
