@@ -13,7 +13,7 @@
  - Visual Studio Code
  - Git 
  - GitHub
- - HTML
+ - Html
 
 ### Habilidaddes Adquiridas
 
