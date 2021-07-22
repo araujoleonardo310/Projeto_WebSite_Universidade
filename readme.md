@@ -15,7 +15,7 @@ Aplicar os conhecimentos básicos de HTML para a criação de um web site.
  - GitHub
  - Imagens (disponibilizadas pelo curso)
 
-### Foco de Habilidaddes Adquiridas
+### Habilidaddes Adquiridas
 
 * Títulos 
 * Paragráfos
