@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Aplicar os conhecimentos básicos de HTML para a criação de um web site de uma unveridade.
+> Primeiro projeto do curso de Desenvolvedor Web 2021, ao qual focou-se em me ensinar a criação de um site para uma universidade.
 
 ![](fotos/20210708_074017.gif)
 
@@ -13,7 +13,7 @@ Aplicar os conhecimentos básicos de HTML para a criação de um web site de uma
  - Visual Studio Code
  - Git 
  - GitHub
- - Imagens (disponibilizadas pelo curso)
+ - HTML
 
 ### Habilidaddes Adquiridas
 
